@@ -1,5 +1,5 @@
 
-<p align=center><a href=#><img src="https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif"/></a></p>
+![](https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif)
 
 Baseado no projeto original 
 
