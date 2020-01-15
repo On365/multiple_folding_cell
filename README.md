@@ -1,4 +1,4 @@
-<a href=#><img src="https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif"/>
+<img src="https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif"/>
 Baseado no projeto original 
 
 ### The Flutter Vignettes
