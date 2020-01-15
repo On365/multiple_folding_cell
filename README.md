@@ -6,7 +6,7 @@ This vignette is part of a collection of explorations into the exciting user exp
 
 In addition to reviewing and forking the [MIT-licensed](LICENSE.md) code available here, you can also check out more information on the [Vignette Showcase Website](https://flutter.gskinner.com). 
 <br />
-<p align=center><a href=#><img src="https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif?"/></a></p>
+<p align=center><a href=#><img src="https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif"/></a></p>
 
 
 
