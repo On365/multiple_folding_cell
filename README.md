@@ -1,5 +1,5 @@
 
-![](https://github.com/On365/multiple_folding_cell/tree/master/images/show.gif)
+![Preview](/images/show.gif)
 
 Baseado no projeto original 
 
